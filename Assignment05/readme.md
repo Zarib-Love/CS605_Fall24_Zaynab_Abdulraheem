@@ -2,7 +2,6 @@ The Binary Search Tree has three functions. To start using the BST function, use
 
 new_tree = BinarySearchTree()
 
-
 Insert 
 To insert a new key, use the following format:
 
